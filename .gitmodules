@@ -1,0 +1,3 @@
+[submodule "src/sub-modules-components"]
+	path = src/sub-modules-components
+	url = https://github.com/samsurya336/sub-modules-components.git
